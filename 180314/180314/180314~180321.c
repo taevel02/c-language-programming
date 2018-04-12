@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void main_exit() {
+void main_exit1() {
 	int a;
 	char b;
 	printf("학번을 입력하세요!\n");
