@@ -3,8 +3,15 @@
 void main() {
 	int i = 1;
 
-	while (i <= 34) {
-		printf("%d\n", i);
+	while (1) {
+		if (i > 100)
+			break;
+
 		i++;
+			
+		if (i % 2 == 1)
+			continue;
+
+		printf("%d\n", i);
 	}
 }
