@@ -2,17 +2,17 @@
 
 int main() {
 	int n, i = 1;
-	scanf_s("%d", &n);
+	scanf("%d", &n);
 
 	while (1) {
 		i++;
 		if (n == 1) {
-			printf("¼Ò¼ö°¡ ¾Æ´Ï´Ù."); break;
+			printf("ì†Œìˆ˜ê°€ ì•„ë‹ˆë‹¤."); break;
 		}
 		if (n == i) {
-			printf("¼Ò¼öÀÌ´Ù."); break;
+			printf("ì†Œìˆ˜ì´ë‹¤."); break;
 		} else if (n % i == 0) {
-			printf("¼Ò¼ö°¡ ¾Æ´Ï´Ù."); break;
+			printf("ì†Œìˆ˜ê°€ ì•„ë‹ˆë‹¤."); break;
 		}
 	}
 }
