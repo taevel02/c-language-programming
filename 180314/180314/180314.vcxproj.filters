@@ -24,7 +24,10 @@
     <ClCompile Include="180404~180411.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="180412~.c">
+    <ClCompile Include="180412~180427.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="180430~.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

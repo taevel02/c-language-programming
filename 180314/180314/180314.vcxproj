@@ -122,7 +122,8 @@
     <ClCompile Include="180314~180321.c" />
     <ClCompile Include="180329~180403.c" />
     <ClCompile Include="180404~180411.c" />
-    <ClCompile Include="180412~.c" />
+    <ClCompile Include="180412~180427.c" />
+    <ClCompile Include="180430~.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
